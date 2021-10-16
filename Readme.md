@@ -1,1 +1,1 @@
-Görüntü İşleme Dersinin Haftalık Notları
+İmage Processing Techniques
